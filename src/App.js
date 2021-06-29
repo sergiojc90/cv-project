@@ -11,7 +11,13 @@ import Websites from "./components/Websites"
 function App() {
   return (
     <div className="App">s
-
+      <Education/>
+      <EmploymentHistory/>
+      <PersonalDetails/>
+      <Preview/>
+      <ProfessionalSumary/>
+      <Skills/>
+      <Websites/>
     </div>
   );
 }
