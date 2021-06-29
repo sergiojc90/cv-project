@@ -11,9 +11,9 @@ import Websites from "./components/Websites"
 function App() {
   return (
     <div className="App">s
+      <PersonalDetails/>
       <Education/>
       <EmploymentHistory/>
-      <PersonalDetails/>
       <Preview/>
       <ProfessionalSumary/>
       <Skills/>
